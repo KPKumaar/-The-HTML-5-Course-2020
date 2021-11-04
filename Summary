@@ -1,0 +1,19 @@
+--> opening tag,closing tag and inside the opening and closing tags; this whole thing is called html element
+--> empty element does not have ending tag ; eg:- <br> - this is break tag used for line break
+--> <p> </p> - paragraph tag (we can use this without ending tab)
+--> there are 6 headings in html (1 to 6)
+    <h1> </h1> to <h6> </h6>
+    sizes varies ; h1 is largest and h6 is smallest
+--> attributes in html used to give extra information about the html element and given inside the opening tag
+--> style attribute is used to change color of text,background color,font-size of the text.......
+    style = "color:blue"  -- changes text color to blue
+    style = "background-color:red"  --  changes back ground color to red
+    style = "font-size:60px"  --  changes font size to 60 pixels
+--> <b> </b> (or) <strong> </strong> -- used for bold text
+--> <i> </i>  --  used for italic
+--> <sub> </sub>  -- used for subscripts (below the line with small letter)
+--> <sup> </sup>  -- used for super scripts (above the line with small letter)
+--> <!--this is  a comment-->   -   comments are not displayed in web browser
+--> style = "background-color:red"  --  changes back ground color to red
+    if this is given in paragraph tag (or) heading tag then only that paragarah (or) heading background color is changed to red color
+    if given in body tag then whole background color is changed
